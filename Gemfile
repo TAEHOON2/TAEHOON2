@@ -26,9 +26,11 @@ gem 'materialize-sass'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 gem 'devise'
+gem 'mini_magick'
 # Use Unicorn as the app server
 # gem 'unicorn'
 gem 'rails_db'
+gem 'carrierwave', '~> 1.0'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
